@@ -1,9 +1,15 @@
 {
   "name": "@bheui/server-functions",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "https://github.com/TomaszPilch/BHE-be-ui-server-functions.git",
   "author": "Tomasz Pilch",
   "license": "MIT",
+  "files": [
+    "package.json",
+    "readme.md",
+    "lib/*",
+    "yarn.lock"
+  ],
   "peerDependencies": {
     "axios": "^0.21.0",
     "ramda": "^0.27.1"
